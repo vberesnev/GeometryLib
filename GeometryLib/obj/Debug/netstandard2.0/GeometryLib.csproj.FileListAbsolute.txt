@@ -1,0 +1,7 @@
+D:\Валера\C#\GeometryLib\GeometryLib\bin\Debug\netstandard2.0\GeometryLib.deps.json
+D:\Валера\C#\GeometryLib\GeometryLib\bin\Debug\netstandard2.0\GeometryLib.dll
+D:\Валера\C#\GeometryLib\GeometryLib\bin\Debug\netstandard2.0\GeometryLib.pdb
+D:\Валера\C#\GeometryLib\GeometryLib\obj\Debug\netstandard2.0\GeometryLib.AssemblyInfoInputs.cache
+D:\Валера\C#\GeometryLib\GeometryLib\obj\Debug\netstandard2.0\GeometryLib.AssemblyInfo.cs
+D:\Валера\C#\GeometryLib\GeometryLib\obj\Debug\netstandard2.0\GeometryLib.dll
+D:\Валера\C#\GeometryLib\GeometryLib\obj\Debug\netstandard2.0\GeometryLib.pdb
